@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[syftkogtech.com]]></title>
+        <description><![CDATA[syftkogtech.com]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 14 Feb 2016 06:43:30 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Mission :]]></title>
+            <description><![CDATA[<article><h1>Mission :</h1><p>Hello world welcome to my new page : I promise to place plenty of content to stimulate your mind and spirit and foster positive growth . In the mean time just sit back and enjoy the ride .</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/235a426e582abac622769bdbb444068353c6c4ae.png"></article>]]></description>
+            <link>undefinedmission/index.html</link>
+            <guid isPermaLink="false">3e0f4333-6355-425d-ac8b-36d6ff98ff69</guid>
+            <pubDate>Sun, 14 Feb 2016 06:42:32 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
