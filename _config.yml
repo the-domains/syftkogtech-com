@@ -1,4 +1,19 @@
-analytics: {}
+name: syftkogtech.com
+favicon: null
+layout_spectrum: 0.7250922825187445
+typography_spectrum: 0.6797739763278514
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: UA-74195413-1
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#ADD7F6'
@@ -8,11 +23,6 @@ color:
     - '#3B28CC'
   brandStrength: 0.5259742089547217
   lightness: 0.24773873947560787
-  rhythmicContrast: 0.804760844213888
   saturation: 0.8519023407716304
-cta: {}
-layout_spectrum: 0.7250922825187445
-name: syftkogtech.com
-opengraph: {}
+  rhythmicContrast: 0.804760844213888
 purpose: []
-typography_spectrum: 0.6797739763278514
