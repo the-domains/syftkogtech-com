@@ -1,20 +1,14 @@
 name: syftkogtech.com
-favicon: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/70f68f9d-5ea0-4115-ba7e-07a7bdd3c565.jpg
 layout_spectrum: 0.92816
 typography_spectrum: 0.6797739763278514
-title: 'Our technology experts search the planet for innovative products, and after a rigorous evaluation process, we select the best products. The result of our work is what you see here.'
-cta:
-  domain: null
-  bucket: null
-  version: null
+cta: {}
 analytics:
   google: UA-74195413-1
-  facebook: null
-  twitter: null
 opengraph:
-  image: null
-  type: null
-  appId: null
+  type: ''
+  appId: ''
 color:
   brandColors:
     - '#ffffff'
@@ -27,3 +21,13 @@ color:
   saturation: 0.8519023407716304
   rhythmicContrast: 0.804760844213888
 purpose: []
+title: >-
+  Our technology experts search the planet for innovative products, and after a
+  rigorous evaluation process, we select the best products. The result of our
+  work is what you see here.
+author:
+  name: ''
+  url: ''
+  email: ''
+content_rating:
+  adult: false
