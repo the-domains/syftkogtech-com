@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Do you always wanted to know how to make a living blogging ? ..
-dateModified: '2017-08-25T17:41:47.374Z'
-datePublished: '2017-08-25T17:41:48.435Z'
+dateModified: '2017-08-25T17:47:08.297Z'
+datePublished: '2017-08-25T17:47:08.790Z'
 title: Blogging For A Living !!!
 author: []
 publisher: {}
@@ -26,4 +26,4 @@ TODAY IS YOUR LUCKY DAY !!!
 NOW YOU CAN !!!
 
 First Month Free on How To Make a Living as a Writer or Blogger course!
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/490afce8-58c0-4f49-942d-066c90e427dd.png)
+![Getting your name out there takes a lot of work, but we know the answers ](https://the-grid-user-content.s3-us-west-2.amazonaws.com/490afce8-58c0-4f49-942d-066c90e427dd.png)
