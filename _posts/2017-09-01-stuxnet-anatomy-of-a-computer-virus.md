@@ -57,13 +57,13 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://youtu.be/nEsNnwZpXrk'
 title: Stuxnet Anatomy of a Computer Virus
-datePublished: '2017-09-01T20:33:58.089Z'
-dateModified: '2017-09-01T20:25:51.009Z'
+datePublished: '2017-09-01T20:38:28.459Z'
+dateModified: '2017-09-01T20:38:26.492Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-09-01-stuxnet-anatomy-of-a-computer-virus.md
 starred: false
-datePublishedOriginal: '2017-09-01T20:33:58.089Z'
+datePublishedOriginal: '2017-09-01T20:38:01.258Z'
 _type: VideoObject
 _context: 'http://schema.org'
 
@@ -77,5 +77,7 @@ Stuxnet is a computer worm discovered in June 2010 that is believed to have been
 by syftkog on YouTube
 
 **Edit**
+
+https://youtu.be/nEsNnwZpXrk
 
 [0]: https://youtu.be/nEsNnwZpXrk
