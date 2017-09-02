@@ -15,13 +15,13 @@ app_links: []
 isBasedOnUrl: >-
   http://theblackbusinessschool.com/p/how-to-make-a-living-as-a-writer/?product_id=286092&coupon_code=FIRSTMONTHFREE061017&a_aid=57465b6d9f52d&a_bid=5340dcb8
 title: How to Make Money as a Writer
-datePublished: '2017-08-25T18:04:35.464Z'
-dateModified: '2017-08-25T18:04:00.727Z'
-datePublishedOriginal: '2017-08-25T18:04:35.464Z'
+datePublished: '2017-09-02T03:27:43.411Z'
+dateModified: '2017-09-02T03:27:42.394Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-08-25-how-to-make-money-as-a-writer.md
+starred: false
+datePublishedOriginal: '2017-08-25T18:04:35.464Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
