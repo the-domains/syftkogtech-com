@@ -1,6 +1,6 @@
 ---
 title: ''
-dateModified: '2017-09-02T03:27:42.394Z'
+dateModified: '2017-09-04T08:13:54.795Z'
 publisher: {}
 author: []
 inFeed: true
@@ -12,7 +12,7 @@ description: >-
   Architecture system bus with engineer Dennis Moeller, allowing for computer
   plug-ins such as disk drives and printers.
 via: {}
-datePublished: '2017-09-02T03:27:43.486Z'
+datePublished: '2017-09-04T08:13:55.192Z'
 sourcePath: _posts/2017-03-04-born-in-jefferson-city-tennessee-in-1957-computer-scienti.md
 starred: false
 datePublishedOriginal: '2017-03-04T03:58:59.785Z'
