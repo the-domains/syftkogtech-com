@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: "The IRS has issued a new ransomware warning to all taxpayers.\n\_Cyber criminals have begun sending out malicious email\ncampaigns with a “message” from the IRS and FBI. \_According\nto the email, tax payers must download a questionnaire regarding\nchanges to the laws regarding tax compliance. \_However, it is no\nquestionnaire at all. \_Instead, the user downloads ransomware.\n\_Below you will see an example of the malicious correspondence:"
-dateModified: '2017-09-04T10:25:12.747Z'
-datePublished: '2017-09-04T10:25:13.625Z'
+dateModified: '2017-09-04T10:30:09.525Z'
+datePublished: '2017-09-04T10:30:10.645Z'
 title: |-
   IRS Issues Ransomware Warning After Malicious Tax
   Email is Distributed
@@ -11,12 +11,13 @@ author:
       https://techtalk.pcpitstop.com/2017/08/30/irs-issues-major-ransomware-warning/?irsissueswarning=&ad_id=505196&share-ad-id=1
 publisher: {}
 via: {}
-isBasedOnUrl: ''
 sourcePath: >-
   _posts/2017-09-04-irs-issues-ransomware-warning-after-malicious-tax-email-is-d.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-09-04T10:21:32.387Z'
-_type: Blurb
+url: irs-issues-ransomware-warning-after-malicious-tax-email-is-d/index.html
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1b339ee7-4d20-4513-86fa-06749d5905a3.jpg)
