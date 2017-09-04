@@ -1,12 +1,12 @@
 ---
 title: Harriet Tubman
-dateModified: '2017-09-04T08:13:54.795Z'
+dateModified: '2017-09-04T10:25:12.747Z'
 publisher: {}
 author: []
 inFeed: true
 description: 'Harriet Tubman didn''t like President Lincoln '
 via: {}
-datePublished: '2017-09-04T08:13:55.184Z'
+datePublished: '2017-09-04T10:25:13.624Z'
 sourcePath: _posts/2017-08-12-harriet-tubman.md
 starred: false
 datePublishedOriginal: '2017-08-12T02:35:54.158Z'
