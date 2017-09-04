@@ -1,8 +1,8 @@
 ---
 inFeed: true
-description: "The IRS has issued a new ransomware warning to all taxpayers.\n Cyber criminals have begun sending out malicious email\ncampaigns with a “message” from the IRS and FBI. \_According\nto the email, tax payers must download a questionnaire regarding\nchanges to the laws regarding tax compliance. \_However, it is no\nquestionnaire at all. \_Instead, the user downloads ransomware.\n\_Below you will see an example of the malicious correspondence:"
-dateModified: '2017-09-04T10:21:31.289Z'
-datePublished: '2017-09-04T10:21:32.387Z'
+description: "The IRS has issued a new ransomware warning to all taxpayers.\n\_Cyber criminals have begun sending out malicious email\ncampaigns with a “message” from the IRS and FBI. \_According\nto the email, tax payers must download a questionnaire regarding\nchanges to the laws regarding tax compliance. \_However, it is no\nquestionnaire at all. \_Instead, the user downloads ransomware.\n\_Below you will see an example of the malicious correspondence:"
+dateModified: '2017-09-04T10:25:12.747Z'
+datePublished: '2017-09-04T10:25:13.625Z'
 title: |-
   IRS Issues Ransomware Warning After Malicious Tax
   Email is Distributed
@@ -12,10 +12,10 @@ author:
 publisher: {}
 via: {}
 isBasedOnUrl: ''
-starred: false
-datePublishedOriginal: '2017-09-04T10:21:32.387Z'
 sourcePath: >-
   _posts/2017-09-04-irs-issues-ransomware-warning-after-malicious-tax-email-is-d.md
+starred: false
+datePublishedOriginal: '2017-09-04T10:21:32.387Z'
 _type: Blurb
 
 ---
