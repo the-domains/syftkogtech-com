@@ -4,12 +4,7 @@ author:
     url: null
     avatar: {}
 related: []
-publisher:
-  url: 'http://www.independent.co.uk'
-  name: The Independent
-  favicon: >-
-    http://www.independent.co.uk/sites/all/themes/ines_themes/independent_theme/favicon.ico
-  domain: www.independent.co.uk
+publisher: {}
 keywords:
   - cuba. hurricane irma
   - americas
@@ -20,8 +15,8 @@ app_links: []
 isBasedOnUrl: >-
   http://www.independent.co.uk/news/world/americas/irma-hurrican-cuba-doctors-carribbean-islands-sends-hundreds-castro-a7938171.html
 title: Cuba sends hundreds of doctors to Caribbean islands devastated by hurricane
-datePublished: '2017-09-09T23:05:54.310Z'
-dateModified: '2017-09-09T23:05:53.649Z'
+datePublished: '2017-09-09T23:12:56.194Z'
+dateModified: '2017-09-09T23:12:55.042Z'
 via: {}
 inFeed: true
 sourcePath: >-
@@ -32,6 +27,8 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e37609d0-a553-400b-8c7c-3ccef55ff32e.jpg)
+
 [article][0]
 
 # Cuba sends hundreds of doctors to Caribbean islands devastated by hurricane
@@ -42,11 +39,9 @@ by Shehab Khan on The Independent
 
 **Edit**
 
-HORRAY For Cuba !!: The nation of 11 million people has a history of sending medical 
-staff when other nations are in need, having done so during west 
-Africa's Ebola crisis in 2014 and 2015\.
+HORRAY For Cuba !!: The nation of 11 million people has a history of sending medical staff when other nations are in need, having done so during west Africa's Ebola crisis in 2014 and 2015\.
 
-A brigade of more than 600 Cuban health workers went to Sierra Leone in 2014 to help tackle the crisis. 
+A brigade of more than 600 Cuban health workers went to Sierra Leone in 2014 to help tackle the crisis.
 
 They also sent 1,200 health workers to Haiti after the nation was hit with an earthquake in 2010\.
 
