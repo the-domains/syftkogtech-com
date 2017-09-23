@@ -34,6 +34,9 @@ navigation:
   - name: IRS Issues Ransomware Warning
     id: a5362a95-49c3-4fed-884d-87cdad22ad65
     type: content
+  - name: Would SeLinux have stopped Equifax Breach ?
+    id: ae3690f2-a162-4e1a-a325-b2c42c69bcad
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/c7f408b5-9fc2-4262-8fa3-06e33ffb82a5.jpg
 title: >-
