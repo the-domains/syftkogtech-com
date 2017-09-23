@@ -23,8 +23,8 @@ app_links: []
 isBasedOnUrl: >-
   http://www.thedailybeast.com/dhs-russian-hackers-targeted-21-states-during-election
 title: 'DHS: Russian Hackers Targeted 21 States During Election'
-datePublished: '2017-09-23T04:31:09.270Z'
-dateModified: '2017-09-23T04:31:08.425Z'
+datePublished: '2017-09-23T04:34:14.358Z'
+dateModified: '2017-09-23T04:34:12.583Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-09-23-dhs-russian-hackers-targeted-21-states-during-election.md
