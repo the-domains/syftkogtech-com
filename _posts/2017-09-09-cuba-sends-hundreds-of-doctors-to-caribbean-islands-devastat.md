@@ -15,8 +15,8 @@ app_links: []
 isBasedOnUrl: >-
   http://www.independent.co.uk/news/world/americas/irma-hurrican-cuba-doctors-carribbean-islands-sends-hundreds-castro-a7938171.html
 title: Cuba sends hundreds of doctors to Caribbean islands devastated by hurricane
-datePublished: '2017-09-23T05:25:33.301Z'
-dateModified: '2017-09-23T05:25:32.360Z'
+datePublished: '2017-09-23T05:37:11.389Z'
+dateModified: '2017-09-23T05:37:10.404Z'
 via: {}
 inFeed: true
 sourcePath: >-
