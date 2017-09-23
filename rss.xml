@@ -4,9 +4,79 @@
         <description><![CDATA[Our technology experts search the planet for innovative products, and after a rigorous evaluation process, we select the best products. The result of our work is what you see here.]]></description>
         <link>http://www.syftkogtech.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Sep 2017 03:08:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Sep 2017 03:27:13 GMT</lastBuildDate>
         <atom:link href="http://www.syftkogtech.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 23 Sep 2017 03:08:41 GMT</pubDate>
+        <pubDate>Sat, 23 Sep 2017 03:27:11 GMT</pubDate>
+        <item>
+            <title><![CDATA[News in brief: Linux advice for Equifax; fired
+over phish; Security.txt standard proposed ]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c2583c74-97a8-4483-93d1-39e9dc32878e.png">,<h1>News in brief: Linux advice for Equifax; fired
+over phish; Security.txt standard proposed </h1>,<p>
+Would
+SeLinux have stopped Equifax Breach ?</p>,<p>
+Writing
+on the Double Pulsar site, infosec practitioner&nbsp;Kevin Beaumont
+suggests&nbsp;Security
+Enhanced Linux (SELinux) would have saved Equifax&nbsp;from
+the&nbsp;disastrous
+breach&nbsp;it
+disclosed earlier this month.</p>,<p>
+If you’re going to have Apache Struts facing the internet, SELinux is
+the way to go, he wrote, referring to the&nbsp;Apache
+Struts vulnerability the thieves exploited:</p>,<p>“ <em>This is the #1 thing almost every organisation seems to miss.&nbsp;Security
+Enhanced Linux is</em><em>very
+simple to deploy — usually just one command — and it
+beefs up security on processes. Correctly deployed, it stops Tomcat
+accessing the system — so stops unknown exploits.”</em></p>,<p><em>~</em>by<em></em>Bill Brenner</p>,<p>The
+article goes on to describe how the absence of SELinux makes things
+easy for the bad guys, and how IT/infosec practitioners can get the
+best bang from it.</p>,<h2>BBC: Finance director phished, then fired</h2>,<p>The BBC has a cautionary tale for pretty much everyone who uses
+email. It’s the story of a finance director who was sacked after
+falling for a phishing scam disguised as a message from the boss. The
+name of the company and the players are anonymous in the story, but
+the BBC describes the sequence of events this way:</p>,<p>The email from
+the boss looked kosher. He said a new supplier needed paying urgently
+– £50,000 to secure an important contract. He wanted it done as
+soon as possible because he was on holiday and didn’t want to worry
+anymore about work. This rang true to the finance director because
+his boss had already posted a photo of his Greek island getaway on
+Instagram. His email address looked genuine too. But, of course, it
+wasn’t the boss.</p>,<p>It was a fraudster who’d done his research and was
+skilled at psychological manipulation. The small manufacturing firm –
+that wishes to remain anonymous – ended up losing £150,000 to the
+fraudster in the mistaken belief that he was a legitimate supplier.
+When the boss found out the bad news, he fired the finance director.</p>,<p>The article says to beware of three words in any email subject
+field: “urgent”, “payment” and “request”.</p>,<h2>
+Proposed
+Security.txt standard resembles Robots.txt</h2>,<p>Security researcher and web developer Ed Foudil has an idea he
+hopes the Internet Engineering Task Force (IETF) will go for:
+<a href="https://www.ietf.org/id/draft-foudil-securitytxt-00.txt">turning&nbsp;security.txt
+into a standard</a>.&nbsp;security.txt is&nbsp;a file webmasters can
+host on their domain root and use to describe the site’s security
+policies. It’s a lot like&nbsp;robots.txt, a standard websites use
+to communicate and define policies for web and search engine
+crawlers.</p>,<p>The difference is that security.txt would be specific to security
+policies.</p>,<p>In his paper,&nbsp;Foudil says the following:</p>,<p>When security risks in web services are discovered by
+independent security researchers who understand the severity of the
+risk, they often lack the channels to properly disclose them. As a
+result, security issues may be left unreported. Security.txt defines
+a standard to help organizations define the process for security
+researchers to securely disclose security vulnerabilities.</p>,<p>According to Bleepingcomputer, it would <a href="https://www.bleepingcomputer.com/news/security/security-txt-standard-proposed-similar-to-robots-txt/">work
+this way</a>:</p>,<ul><li>A security researcher finds a
+	security vulnerability on a website 
+	</li><li>He/she accesses the site’s security.txt file for
+	information on how to contact the company and securely report the
+	issue. 
+	</li></ul>,<p>Security.txt is currently labelled as an “Internet Draft”, the
+first IETF regulatory step in a three-stage process that also
+includes&nbsp;<a href="https://en.wikipedia.org/wiki/Request_for_Comments">RFC
+(Request For Comment)</a>&nbsp;and official&nbsp;<a href="https://en.wikipedia.org/wiki/Internet_Standard">Internet
+Standards</a>.</p>,<p><em><a href="https://nakedsecurity.sophos.com/2017/09/19/">Catch
+up with all of today’s stories on Naked Security</a></em></p>]]></description>
+            <link>http://www.syftkogtech.com/news-in-brief-linux-advice-for-equifax-fired-over-phish-s/index.html</link>
+            <guid isPermaLink="false">ae3690f2-a162-4e1a-a325-b2c42c69bcad</guid>
+            <pubDate>Sat, 23 Sep 2017 03:06:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Cuba sends hundreds of doctors to Caribbean islands devastated by hurricane]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e37609d0-a553-400b-8c7c-3ccef55ff32e.jpg">,<p><a href="http://www.independent.co.uk/news/world/americas/irma-hurrican-cuba-doctors-carribbean-islands-sends-hundreds-castro-a7938171.html">article</a></p>,<h1>Cuba sends hundreds of doctors to Caribbean islands devastated by hurricane</h1>,<p>Cuba has sent doctors to several Caribbean islands ravaged by Hurricane Irma. More than 750 health workers have arrived in Antigua, Barbuda, Saint Kitts, Nevis, Saint Lucia, the Bahamas, Dominica, and Haiti. They have been told to follow the guidelines of the Ministry of Public Health (Minsap) and to contribute to aiding the recovery of regions that have been hit by the hurricane.</p>,<p>by Shehab Khan on The Independent</p>,<p><strong>Edit</strong></p>,<p>HORRAY For Cuba !!: The nation of 11 million people has a history of sending medical staff when other nations are in need, having done so during west Africa's Ebola crisis in 2014 and 2015.</p>,<p>A brigade of more than 600 Cuban health workers went to Sierra Leone in 2014 to help tackle the crisis.</p>,<p>They also sent 1,200 health workers to Haiti after the nation was hit with an earthquake in 2010.</p>]]></description>
@@ -112,13 +182,6 @@ The San include the indigenous inhabitants of Southern Africa before the southwa
             <link>https://plus.google.com/106277079873772887316/posts/1DxrDVwUwTi</link>
             <guid isPermaLink="false">7f4234b3-4cbe-4070-8179-d348dba80a49</guid>
             <pubDate>Sat, 18 Mar 2017 01:06:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Yes we are on Facebook ]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e89a63d2-8a72-4fcc-bc20-7773cf412eac.jpg" title="Yes we are on Facebook ">,<blockquote>You get more with SYFTKOGTECH for less. Our IT support team gets it right!</blockquote>]]></description>
-            <link>https://www.facebook.com/SYFTKOGTECH/</link>
-            <guid isPermaLink="false">b056cb26-3705-4068-9288-97d42a0ba8a2</guid>
-            <pubDate>Mon, 04 Sep 2017 10:11:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
