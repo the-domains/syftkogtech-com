@@ -4,9 +4,9 @@
         <description><![CDATA[Our technology experts search the planet for innovative products, and after a rigorous evaluation process, we select the best products. The result of our work is what you see here.]]></description>
         <link>http://www.syftkogtech.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Sep 2017 04:34:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Sep 2017 04:37:07 GMT</lastBuildDate>
         <atom:link href="http://www.syftkogtech.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 23 Sep 2017 04:34:24 GMT</pubDate>
+        <pubDate>Sat, 23 Sep 2017 04:37:05 GMT</pubDate>
         <item>
             <title><![CDATA[News in brief: Linux advice for Equifax; fired
 over phish; Security.txt standard proposed ]]></title>
@@ -76,22 +76,6 @@ up with all of today’s stories on Naked Security</a></em></p>]]></description>
             <link>http://www.syftkogtech.com/news-in-brief-linux-advice-for-equifax-fired-over-phish-s/index.html</link>
             <guid isPermaLink="false">ae3690f2-a162-4e1a-a325-b2c42c69bcad</guid>
             <pubDate>Sat, 23 Sep 2017 03:06:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[DHS: Russian Hackers Targeted 21 States During Election]]></title>
-            <description><![CDATA[<article><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/d734ebf9623d6372b5efc513a7092ef3/noop.jpg?input=https%3A%2F%2Fthedailybeast-res.cloudinary.com%2Fimage%2Fupload%2Fv1506118566%2F170922-dhs-votes-cheat_biijcu.jpg"><h1>DHS: Russian Hackers Targeted 21 States During Election</h1><p>None of the networks that were breached involved vote tallying.</p></article>,<p>The Department of Homeland Security notified 21 states on Friday about 
-attempts from Russian governments hackers to breach their systems during
- the 2016 election. Among those that have confirmed that they were 
-targeted are Alabama, Washington, Wisconsin and Minnesota. Those four 
-states said that the breach attempts were unsuccessful. According to <em>Politico</em>,
- a DHS official said that only a few networks were successfully breached
- and none involved vote tallying. “DHS notified the Secretary of State 
-or other chief election officer in each state of any potential targeting
- we were aware of in their state leading up to the 2016 election,” DHS 
-spokesman Scott McConnell said. </p>]]></description>
-            <link>http://www.thedailybeast.com/dhs-russian-hackers-targeted-21-states-during-election</link>
-            <guid isPermaLink="false">7b5a77b7-5104-49c3-8104-ddebe8f4641b</guid>
-            <pubDate>Sat, 23 Sep 2017 04:28:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[IRS Issues Ransomware Warning After Malicious Tax
@@ -183,6 +167,13 @@ else they know on the app is anybody’s guess.</p>]]></description>
             <link>https://the-grid.github.io/ed-userhtml/?g=eJw9j8sOgjAURH-FdE8LUdEY0LjRGEkQNe6x99KWWKul2ujX-0KXZzIzmUlVbSuNQWt5RqRz53bMGBjeUmGMOCLlRrPaWN0yYMji-Wx5LvMtr9VFFHv76ONdVuvRCjahTJryGg-jPNo1zSwse7dCmtiHi8HKs5tC_66Zoj4gAELm7BVJ4BU4mZFhEpFAohLSdfCZdTAW0GbkxbqyQp1-lr_Q5SMyyU0F6iQopSn7npo8AbiFSlc</link>
             <guid isPermaLink="false">1c92ea22-6124-4c08-9590-d89764264ae8</guid>
             <pubDate>Mon, 04 Sep 2017 08:58:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[DHS: Russian Hackers Targeted 21 States During Election]]></title>
+            <description><![CDATA[<article><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/d734ebf9623d6372b5efc513a7092ef3/noop.jpg?input=https%3A%2F%2Fthedailybeast-res.cloudinary.com%2Fimage%2Fupload%2Fv1506118566%2F170922-dhs-votes-cheat_biijcu.jpg"><h1>DHS: Russian Hackers Targeted 21 States During Election</h1><p>None of the networks that were breached involved vote tallying.</p></article>,<p>The Department of Homeland Security notified 21 states on Friday about attempts from Russian governments hackers to breach their systems during the 2016 election. Among those that have confirmed that they were targeted are Alabama, Washington, Wisconsin and Minnesota. Those four states said that the breach attempts were unsuccessful. According to <em>Politico</em>, a DHS official said that only a few networks were successfully breached and none involved vote tallying. “DHS notified the Secretary of State or other chief election officer in each state of any potential targeting we were aware of in their state leading up to the 2016 election,” DHS spokesman Scott McConnell said.</p>]]></description>
+            <link>http://www.thedailybeast.com/dhs-russian-hackers-targeted-21-states-during-election</link>
+            <guid isPermaLink="false">7b5a77b7-5104-49c3-8104-ddebe8f4641b</guid>
+            <pubDate>Sat, 23 Sep 2017 04:28:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
