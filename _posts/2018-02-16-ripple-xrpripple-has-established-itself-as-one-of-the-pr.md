@@ -11,15 +11,15 @@ description: >-
   with the backing of banks and other financial institutions, Ripple looks
    to make a strong case as the cryptocurrency of choice for an internet 
   commerce giant like Amazon.
-dateModified: '2018-02-16T05:15:47.584Z'
-datePublished: '2018-02-16T05:16:11.372Z'
+dateModified: '2018-02-16T05:19:40.076Z'
+datePublished: '2018-02-16T05:19:41.469Z'
 title: ''
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2018-02-16-ripple-xrpripple-has-established-itself-as-one-of-the-pr.md
 starred: false
 datePublishedOriginal: '2018-02-16T05:16:11.372Z'
-sourcePath: _posts/2018-02-16-ripple-xrpripple-has-established-itself-as-one-of-the-pr.md
 _type: Blurb
 
 ---
