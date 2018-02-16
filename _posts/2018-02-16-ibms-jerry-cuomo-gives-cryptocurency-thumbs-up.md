@@ -1,7 +1,7 @@
 ---
 title: IBM'S Jerry Cuomo Gives cryptocurency Thumbs up .
-datePublished: '2018-02-16T05:01:52.622Z'
-dateModified: '2018-02-16T05:01:51.601Z'
+datePublished: '2018-02-16T05:19:41.468Z'
+dateModified: '2018-02-16T05:19:40.076Z'
 publisher: {}
 author: []
 inFeed: true
