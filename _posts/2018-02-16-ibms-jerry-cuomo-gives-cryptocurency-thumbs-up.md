@@ -1,7 +1,7 @@
 ---
 title: IBM'S Jerry Cuomo Gives cryptocurency Thumbs up .
-datePublished: '2018-02-16T02:33:22.618Z'
-dateModified: '2018-02-16T02:30:58.536Z'
+datePublished: '2018-02-16T05:01:52.622Z'
+dateModified: '2018-02-16T05:01:51.601Z'
 publisher: {}
 author: []
 inFeed: true
@@ -13,9 +13,9 @@ description: >
   cryptocurrency volatility, said the government should embrace the distributed
   ledger technology and encouraged its use in the enterprise.By Lucas Mearian
 via: {}
+sourcePath: _posts/2018-02-16-ibms-jerry-cuomo-gives-cryptocurency-thumbs-up.md
 starred: true
 datePublishedOriginal: '2018-02-16T02:25:24.411Z'
-sourcePath: _posts/2018-02-16-ibms-jerry-cuomo-gives-cryptocurency-thumbs-up.md
 url: ibms-jerry-cuomo-gives-cryptocurency-thumbs-up/index.html
 _type: Article
 _context: 'http://schema.org'
