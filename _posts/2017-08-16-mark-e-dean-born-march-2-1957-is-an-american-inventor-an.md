@@ -1,6 +1,6 @@
 ---
 title: ''
-dateModified: '2017-09-23T05:37:10.404Z'
+dateModified: '2018-02-16T05:01:51.601Z'
 publisher: {}
 author: []
 inFeed: true
@@ -12,7 +12,7 @@ description: >-
   released in 1981.In August 2011, writing in his blog, Dean stated that he now
   uses a tablet computer instead of a PC.
 via: {}
-datePublished: '2017-09-23T05:37:11.363Z'
+datePublished: '2018-02-16T05:01:52.614Z'
 sourcePath: _posts/2017-08-16-mark-e-dean-born-march-2-1957-is-an-american-inventor-an.md
 starred: false
 datePublishedOriginal: '2017-08-16T21:38:38.955Z'
