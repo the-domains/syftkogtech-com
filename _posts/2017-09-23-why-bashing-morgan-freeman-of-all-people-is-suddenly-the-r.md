@@ -20,8 +20,8 @@ description: >-
 app_links: []
 isBasedOnUrl: 'https://youtu.be/Uz9PNoecNxU'
 title: 'Why bashing Morgan Freeman, of all people, is suddenly the rage in Russia'
-datePublished: '2017-09-23T05:37:11.389Z'
-dateModified: '2017-09-23T05:37:10.404Z'
+datePublished: '2018-02-16T05:01:52.607Z'
+dateModified: '2018-02-16T05:01:51.601Z'
 via: {}
 inFeed: true
 sourcePath: >-
