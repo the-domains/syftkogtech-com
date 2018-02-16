@@ -1,6 +1,16 @@
+name: syftkogtech.com
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c7f408b5-9fc2-4262-8fa3-06e33ffb82a5.jpg
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/0ecc263c-70f1-4c12-89dd-239f300544dd.png
+layout_spectrum: 0.7890374001117405
 typography_spectrum: 0.3770888026834161
-content_rating:
-  adult: false
+cta: {}
+analytics:
+  google: UA-74195413-1
+opengraph:
+  type: ''
+  appId: ''
 color:
   brandColors:
     - '#0B040C'
@@ -12,21 +22,20 @@ color:
   lightness: 0.704527032578198
   saturation: 0.0432975276756921
   rhythmicContrast: 0.6994980047393294
-github: true
-opengraph:
-  type: ''
-  appId: ''
-layout_spectrum: 0.7890374001117405
-analytics:
-  google: UA-74195413-1
+purpose:
+  - type: internal
+    label: IBM Gives cryptocurency Green light For GOVERNMENT USE.
+    item: 7a550314-89be-4979-9010-7fc99f46a027
+title: >-
+  Our technology experts search the planet for innovative products, and after a
+  rigorous evaluation process, we select the best products. The result of our
+  work is what you see here.
 author:
   name: Davie E Hodge
   url: 'http://www.syftkogtech.com/'
   email: daviehodge@syftkogtech.com
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/0ecc263c-70f1-4c12-89dd-239f300544dd.png
-name: syftkogtech.com
-cta: {}
+content_rating:
+  adult: false
 navigation:
   - name: More about us ....
     url: 'https://www.linkedin.com/in/davie-hodge-854ba55'
@@ -37,11 +46,5 @@ navigation:
   - name: Would SeLinux have stopped Equifax Breach ?
     id: ae3690f2-a162-4e1a-a325-b2c42c69bcad
     type: content
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c7f408b5-9fc2-4262-8fa3-06e33ffb82a5.jpg
-title: >-
-  Our technology experts search the planet for innovative products, and after a
-  rigorous evaluation process, we select the best products. The result of our
-  work is what you see here.
 content: []
-purpose: []
+github: true
