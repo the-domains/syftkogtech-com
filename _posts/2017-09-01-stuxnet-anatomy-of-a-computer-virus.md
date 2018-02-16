@@ -6,8 +6,8 @@ description: >-
   facilities.[1] Stuxnet initially spreads via Microsoft Windows, and targets
   Siemens industrial control systems. While it is not the first time that
   hackers have targeted
-dateModified: '2018-02-16T05:01:51.601Z'
-datePublished: '2018-02-16T05:01:52.607Z'
+dateModified: '2018-02-16T05:19:40.076Z'
+datePublished: '2018-02-16T05:19:41.477Z'
 title: Stuxnet Anatomy of a Computer Virus
 author:
   - name: syftkog
