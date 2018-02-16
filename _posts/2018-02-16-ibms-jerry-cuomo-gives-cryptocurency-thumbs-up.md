@@ -1,9 +1,11 @@
 ---
 title: IBM'S Jerry Cuomo Gives cryptocurency Thumbs up .
-dateModified: '2018-02-16T02:25:10.331Z'
+datePublished: '2018-02-16T02:33:22.618Z'
+dateModified: '2018-02-16T02:30:58.536Z'
 publisher: {}
 author: []
 inFeed: true
+hasPage: true
 description: >
   NewslettersComputerworld EventsResources/White PapersNEWS ANALYSISIBM sees
   blockchain as ready for government useIn testimony before a congressional
@@ -11,9 +13,7 @@ description: >
   cryptocurrency volatility, said the government should embrace the distributed
   ledger technology and encouraged its use in the enterprise.By Lucas Mearian
 via: {}
-datePublished: '2018-02-16T02:25:24.411Z'
-hasPage: true
-starred: false
+starred: true
 datePublishedOriginal: '2018-02-16T02:25:24.411Z'
 sourcePath: _posts/2018-02-16-ibms-jerry-cuomo-gives-cryptocurency-thumbs-up.md
 url: ibms-jerry-cuomo-gives-cryptocurency-thumbs-up/index.html
@@ -31,7 +31,6 @@ Resources/White Papers
 NEWS ANALYSIS  
 IBM sees blockchain as ready for government use  
 In testimony before a congressional committee, IBM's Jerry Cuomo warned against over-regulation because of cryptocurrency volatility, said the government should embrace the distributed ledger technology and encouraged its use in the enterprise.  
-  
 By Lucas Mearian
 
 https://www.computerworld.com/article/3254202/blockchain/ibm-sees-blockchain-as-ready-for-government-use.html
