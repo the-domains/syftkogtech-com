@@ -1,15 +1,14 @@
 ---
-at__type: Article
-at__context: 'http://schema.org'
 title: ''
-dateModified: '2016-08-22T12:42:54.819Z'
+datePublished: '2018-03-06T00:28:45.484Z'
+dateModified: '2018-03-06T00:28:42.172Z'
 publisher: {}
 author: []
 inFeed: true
 description: 'Legendary:'
 via: {}
-datePublished: '2016-08-22T12:43:08.709Z'
 starred: false
+datePublishedOriginal: '2016-08-22T12:43:08.709Z'
 sourcePath: >-
   _posts/2016-08-22-legendary-there-are-a-couple-of-ways-to-become-legendary-b.md
 _type: Blurb
