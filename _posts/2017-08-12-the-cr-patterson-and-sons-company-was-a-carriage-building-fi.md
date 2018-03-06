@@ -1,6 +1,6 @@
 ---
 title: ''
-dateModified: '2018-02-16T05:19:40.076Z'
+dateModified: '2018-03-06T00:28:42.172Z'
 publisher: {}
 author: []
 inFeed: true
@@ -10,7 +10,7 @@ description: >-
   Charles Richard Patterson, who was born into slavery in April 1833 on a
   plantation in Virginia.
 via: {}
-datePublished: '2018-02-16T05:19:41.479Z'
+datePublished: '2018-03-06T00:28:45.408Z'
 sourcePath: >-
   _posts/2017-08-12-the-cr-patterson-and-sons-company-was-a-carriage-building-fi.md
 starred: false
