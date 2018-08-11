@@ -49,5 +49,8 @@ navigation:
   - name: Would SeLinux have stopped Equifax Breach ?
     id: ae3690f2-a162-4e1a-a325-b2c42c69bcad
     type: content
+  - name: 'Data Recovery Technology '
+    id: 85b596b1-8331-4fda-b101-c417497c2456
+    type: content
 content: []
 github: true
