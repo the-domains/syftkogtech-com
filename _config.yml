@@ -1,16 +1,5 @@
-name: syftkogtech.com
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c7f408b5-9fc2-4262-8fa3-06e33ffb82a5.jpg
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/0ecc263c-70f1-4c12-89dd-239f300544dd.png
-layout_spectrum: 0.7890374001117405
-typography_spectrum: 0.3770888026834161
-cta: {}
-analytics:
-  google: UA-74195413-1
-opengraph:
-  type: ''
-  appId: ''
+layout_spectrum: 0.3811950664609523
+typography_spectrum: 0.26446892279375456
 color:
   brandColors:
     - '#0B040C'
@@ -18,10 +7,21 @@ color:
     - '#621390'
     - '#FFFAFF'
     - '#6A5888'
-  brandStrength: 0.8237504768132757
-  lightness: 0.704527032578198
-  saturation: 0.0432975276756921
-  rhythmicContrast: 0.6994980047393294
+  brandStrength: 0.0011225980844828162
+  lightness: 0.10361773733160284
+  saturation: 0.9552634853809739
+  rhythmicContrast: 0.011877552451621188
+name: syftkogtech.com
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c7f408b5-9fc2-4262-8fa3-06e33ffb82a5.jpg
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/0ecc263c-70f1-4c12-89dd-239f300544dd.png
+cta: {}
+analytics:
+  google: UA-74195413-1
+opengraph:
+  type: ''
+  appId: ''
 purpose:
   - type: internal
     label: IBM Gives cryptocurency Green light For GOVERNMENT USE.
