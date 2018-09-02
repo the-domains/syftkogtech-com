@@ -1,6 +1,7 @@
 ---
 title: '"The Marímbula, History, Appropriation and Negation of Rhythm"'
-dateModified: '2018-09-02T20:18:57.376Z'
+datePublished: '2018-09-02T20:24:56.091Z'
+dateModified: '2018-09-02T20:24:43.133Z'
 publisher: {}
 author: []
 inFeed: true
@@ -10,8 +11,7 @@ description: >-
   Cassiani conoceremos cómo nació el son palenquero. Si estás en Barranquilla
   acércate al salón de eventos Son Palenque. #FestivalPalenque2018 @mincultura
 via: {}
-datePublished: '2018-09-02T20:20:16.378Z'
-starred: false
+starred: true
 datePublishedOriginal: '2018-09-02T20:20:16.378Z'
 sourcePath: _posts/2018-09-02-the-marimbula-history-appropriation-and-negation-of-rhyth.md
 _type: Article
