@@ -1,7 +1,7 @@
 ---
 title: 'Data Recovery Center '
-datePublished: '2018-09-02T21:26:25.042Z'
-dateModified: '2018-09-02T21:26:02.658Z'
+datePublished: '2018-09-03T06:39:33.155Z'
+dateModified: '2018-09-03T06:39:28.967Z'
 publisher: {}
 author: []
 inFeed: true
@@ -24,9 +24,9 @@ description: >-
   computer storage but also from laptops, memory drives, USB sticks, digital
   camera media, HDDs, Ipods and all other forms of storage tools.
 via: {}
+sourcePath: _posts/2018-08-11-data-recovery-center.md
 starred: true
 datePublishedOriginal: '2018-08-11T08:36:36.798Z'
-sourcePath: _posts/2018-08-11-data-recovery-center.md
 url: data-recovery-center/index.html
 _type: Article
 _context: 'http://schema.org'
