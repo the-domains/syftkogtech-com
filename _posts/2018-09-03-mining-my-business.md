@@ -1,13 +1,13 @@
 ---
 title: ''
-datePublished: '2018-09-03T06:37:21.336Z'
-dateModified: '2018-09-03T06:37:14.959Z'
+datePublished: '2018-09-03T06:39:33.136Z'
+dateModified: '2018-09-03T06:39:28.967Z'
 publisher: {}
 author: []
 inFeed: true
 description: 'Bitcoin Mining  '
 via: {}
-starred: false
+starred: true
 datePublishedOriginal: '2018-09-03T06:33:30.604Z'
 sourcePath: _posts/2018-09-03-mining-my-business.md
 _type: Article
