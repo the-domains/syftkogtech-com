@@ -1,16 +1,16 @@
 ---
 title: ''
-datePublished: '2018-03-06T00:28:45.484Z'
-dateModified: '2018-03-06T00:28:42.172Z'
+datePublished: '2018-09-03T06:39:33.174Z'
+dateModified: '2018-09-03T06:39:28.967Z'
 publisher: {}
 author: []
 inFeed: true
 description: 'Legendary:'
 via: {}
-starred: false
-datePublishedOriginal: '2016-08-22T12:43:08.709Z'
 sourcePath: >-
   _posts/2016-08-22-legendary-there-are-a-couple-of-ways-to-become-legendary-b.md
+starred: false
+datePublishedOriginal: '2016-08-22T12:43:08.709Z'
 _type: Blurb
 
 ---
