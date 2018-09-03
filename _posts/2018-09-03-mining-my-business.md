@@ -1,11 +1,12 @@
 ---
-title: ''
-datePublished: '2018-09-03T06:39:33.136Z'
-dateModified: '2018-09-03T06:39:28.967Z'
+isBasedOnUrl: 'https://youtu.be/cagoyF3WePo'
+title: Bitmain makes huge investment ...
+datePublished: '2018-09-03T06:54:58.890Z'
+dateModified: '2018-09-03T06:54:19.785Z'
 publisher: {}
 author: []
 inFeed: true
-description: 'Bitcoin Mining  '
+description: 'Bitcoin Mining:'
 via: {}
 starred: true
 datePublishedOriginal: '2018-09-03T06:33:30.604Z'
@@ -14,7 +15,8 @@ _type: Article
 _context: 'http://schema.org'
 
 ---
-Bitcoin Mining ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f0ef795d-9822-4833-9fce-05968cbd238d.jpg)
+Bitcoin Mining:
+![Bitcoin (BTC) mining firm Bitmain will build a $500 million blockchain data center and mining facility in Texas as part of its expansion into the U.S. market, the company revealed in a press release August 6.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f0ef795d-9822-4833-9fce-05968cbd238d.jpg)
 
 Mining My Business ...
 
