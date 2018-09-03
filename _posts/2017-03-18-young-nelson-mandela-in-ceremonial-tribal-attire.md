@@ -2,8 +2,8 @@
 isBasedOnUrl: 'https://plus.google.com/106277079873772887316/posts/1DxrDVwUwTi'
 keywords: []
 title: ''
-datePublished: '2018-03-06T00:28:45.409Z'
-dateModified: '2018-03-06T00:28:42.172Z'
+datePublished: '2018-09-03T06:39:33.079Z'
+dateModified: '2018-09-03T06:39:28.967Z'
 publisher: {}
 author:
   - avatar:
@@ -32,9 +32,9 @@ author:
 inFeed: true
 description: An Older and Wiser Nelson Mandela .
 via: {}
+sourcePath: _posts/2017-03-18-young-nelson-mandela-in-ceremonial-tribal-attire.md
 starred: false
 datePublishedOriginal: '2017-03-18T01:06:56.697Z'
-sourcePath: _posts/2017-03-18-young-nelson-mandela-in-ceremonial-tribal-attire.md
 _type: Photograph
 _context: 'http://schema.org'
 
