@@ -2,8 +2,8 @@
 isBasedOnUrl: 'https://www.pinterest.com/pin/522206519262499880/'
 keywords: []
 title: ''
-datePublished: '2018-03-06T00:28:45.779Z'
-dateModified: '2018-03-06T00:28:42.172Z'
+datePublished: '2018-09-03T06:39:33.078Z'
+dateModified: '2018-09-03T06:39:28.967Z'
 publisher: {}
 author: []
 inFeed: true
@@ -17,10 +17,10 @@ description: >-
   doing things well.  "Purpose" is why you get out of bed in the morning.
   Gapingvoid Cartoons by Hugh MacLeod
 via: {}
-starred: false
-datePublishedOriginal: '2016-03-09T18:02:11.836Z'
 sourcePath: >-
   _posts/2016-03-09-it-used-to-be-that-smart-executives-thought-the-purpose-of-b.md
+starred: false
+datePublishedOriginal: '2016-03-09T18:02:11.836Z'
 _type: Article
 _context: 'http://schema.org'
 
