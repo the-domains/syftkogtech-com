@@ -1,7 +1,7 @@
 ---
 title: '"The Marímbula, History, Appropriation and Negation of Rhythm"'
-datePublished: '2018-09-02T20:33:52.437Z'
-dateModified: '2018-09-02T20:26:26.940Z'
+datePublished: '2018-09-03T06:39:33.155Z'
+dateModified: '2018-09-03T06:39:28.967Z'
 publisher: {}
 author: []
 inFeed: true
@@ -12,8 +12,8 @@ description: >-
   acércate al salón de eventos Son Palenque. #FestivalPalenque2018 @mincultura
 via: {}
 sourcePath: _posts/2018-09-02-the-marimbula-history-appropriation-and-negation-of-rhyth.md
-datePublishedOriginal: '2018-09-02T20:33:52.437Z'
 starred: true
+datePublishedOriginal: '2018-09-02T20:33:52.437Z'
 _type: Article
 _context: 'http://schema.org'
 
