@@ -13,8 +13,8 @@ keywords:
   - devices
   - features
 title: 'PlayOn: Watch your media and streaming shows anywhere, even offline.'
-datePublished: '2018-03-06T00:28:45.407Z'
-dateModified: '2018-03-06T00:28:42.172Z'
+datePublished: '2018-09-03T06:39:33.167Z'
+dateModified: '2018-09-03T06:39:28.967Z'
 publisher:
   name: Playon
   domain: www.playon.tv
@@ -28,9 +28,9 @@ description: >-
   HBO and more. Watch your media when you want on your TV, tablet or mobile
   device.
 via: {}
+sourcePath: _posts/2016-04-01-playon-watch-your-media-and-streaming-shows-anywhere-even.md
 starred: false
 datePublishedOriginal: '2016-04-01T03:38:55.572Z'
-sourcePath: _posts/2016-04-01-playon-watch-your-media-and-streaming-shows-anywhere-even.md
 _type: MediaObject
 _context: 'http://schema.org'
 
