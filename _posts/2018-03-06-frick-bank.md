@@ -2,16 +2,16 @@
 isBasedOnUrl: >-
   http://bitcoinist.com/liechtensteins-bank-frick-offering-cryptocurrency-investments-cold-storage/
 title: 'Frick Bank '
-datePublished: '2018-09-03T06:39:33.175Z'
-dateModified: '2018-09-03T06:39:28.967Z'
+datePublished: '2018-12-15T03:40:00.913Z'
+dateModified: '2018-12-15T03:39:57.500Z'
 publisher: {}
 author: []
 inFeed: true
 description: What The FRICK !??
 via: {}
+sourcePath: _posts/2018-03-06-frick-bank.md
 starred: false
 datePublishedOriginal: '2018-03-06T00:17:25.259Z'
-sourcePath: _posts/2018-03-06-frick-bank.md
 _type: Article
 _context: 'http://schema.org'
 
