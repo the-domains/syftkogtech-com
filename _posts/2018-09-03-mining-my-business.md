@@ -1,16 +1,16 @@
 ---
 isBasedOnUrl: 'https://youtu.be/cagoyF3WePo'
 title: Bitmain makes huge investment ...
-datePublished: '2018-09-03T07:05:14.648Z'
-dateModified: '2018-09-03T07:05:04.312Z'
+datePublished: '2018-12-15T03:40:00.761Z'
+dateModified: '2018-12-15T03:39:57.500Z'
 publisher: {}
 author: []
 inFeed: true
 description: 'Bitcoin Mining:'
 via: {}
+sourcePath: _posts/2018-09-03-mining-my-business.md
 starred: true
 datePublishedOriginal: '2018-09-03T06:33:30.604Z'
-sourcePath: _posts/2018-09-03-mining-my-business.md
 _type: Article
 _context: 'http://schema.org'
 
