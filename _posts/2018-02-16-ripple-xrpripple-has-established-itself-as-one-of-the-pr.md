@@ -11,8 +11,8 @@ description: >-
   with the backing of banks and other financial institutions, Ripple looks
    to make a strong case as the cryptocurrency of choice for an internet 
   commerce giant like Amazon.
-dateModified: '2018-09-03T06:39:28.967Z'
-datePublished: '2018-09-03T06:39:33.111Z'
+dateModified: '2018-12-15T03:39:57.500Z'
+datePublished: '2018-12-15T03:40:00.755Z'
 title: ''
 author: []
 publisher: {}
