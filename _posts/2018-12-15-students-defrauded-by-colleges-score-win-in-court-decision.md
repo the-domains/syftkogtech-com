@@ -17,8 +17,8 @@ keywords:
   - travel
   - health
 title: Students defrauded by colleges score win in court decision
-datePublished: '2018-12-15T03:39:39.932Z'
-dateModified: '2018-12-15T03:39:39.362Z'
+datePublished: '2018-12-15T03:40:00.718Z'
+dateModified: '2018-12-15T03:39:57.500Z'
 publisher:
   name: AP NEWS
   domain: www.apnews.com
@@ -30,10 +30,10 @@ description: >-
   Federal Courts Rule That Certain Student Loans Must Be Voided...Act Now!!!!
   Read Details below..!!!!
 via: {}
-starred: true
-datePublishedOriginal: '2018-12-15T03:37:25.332Z'
 sourcePath: >-
   _posts/2018-12-15-students-defrauded-by-colleges-score-win-in-court-decision.md
+starred: true
+datePublishedOriginal: '2018-12-15T03:37:25.332Z'
 _type: MediaObject
 _context: 'http://schema.org'
 
