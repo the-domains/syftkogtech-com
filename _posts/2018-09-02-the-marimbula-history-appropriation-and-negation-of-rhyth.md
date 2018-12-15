@@ -1,7 +1,7 @@
 ---
 title: '"The Marímbula, History, Appropriation and Negation of Rhythm"'
-datePublished: '2018-09-03T06:39:33.155Z'
-dateModified: '2018-09-03T06:39:28.967Z'
+datePublished: '2018-12-15T03:40:00.913Z'
+dateModified: '2018-12-15T03:39:57.500Z'
 publisher: {}
 author: []
 inFeed: true
