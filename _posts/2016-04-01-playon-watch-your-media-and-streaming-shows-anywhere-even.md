@@ -13,8 +13,8 @@ keywords:
   - devices
   - features
 title: 'PlayOn: Watch your media and streaming shows anywhere, even offline.'
-datePublished: '2018-09-03T06:39:33.167Z'
-dateModified: '2018-09-03T06:39:28.967Z'
+datePublished: '2018-12-15T03:40:00.989Z'
+dateModified: '2018-12-15T03:39:57.500Z'
 publisher:
   name: Playon
   domain: www.playon.tv
