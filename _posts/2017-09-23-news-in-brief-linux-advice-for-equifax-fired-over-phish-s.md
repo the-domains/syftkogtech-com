@@ -4,8 +4,8 @@ description: |-
 
   Would
   SeLinux have stopped Equifax Breach ?
-dateModified: '2018-09-03T06:39:28.967Z'
-datePublished: '2018-09-03T06:39:33.110Z'
+dateModified: '2018-12-15T03:39:57.500Z'
+datePublished: '2018-12-15T03:40:00.995Z'
 title: |-
   News in brief: Linux advice for Equifax; fired
   over phish; Security.txt standard proposed 
